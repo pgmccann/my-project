@@ -5,4 +5,5 @@
 This is an example project to illustrate the use of Git for
 collaboration in a research context.
 
-© 2021 University of St Andrews. Licensed under the terms of the MIT License.
+© 2021 University of St Andrews. Made available under the terms of the MIT
+License.
